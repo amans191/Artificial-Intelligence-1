@@ -1,0 +1,2 @@
+cat(fluffy).
+dog(dog).
